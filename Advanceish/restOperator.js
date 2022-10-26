@@ -1,0 +1,1 @@
+...args //same as rest or spread operator but based on usage it depends it rest or spread
